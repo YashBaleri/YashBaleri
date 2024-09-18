@@ -20,16 +20,6 @@ Passionate about *software development* and *cloud*, I excel in creating applica
 
 ---
 
-### 📈 **GitHub Stats**
-
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashBaleri&show_icons=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&count_private=true&theme=radical)
-
-
-![Yash's GitHub Commit Stats for 2024](https://github-readme-streak-stats.herokuapp.com/?user=YashBaleri&theme=radical)
-
-
----
 
 ### 📫 **How to Reach Me**
 
